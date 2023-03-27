@@ -36,6 +36,10 @@ header {
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: center;
-    padding: 20px;
+    padding: 10px;
     background-color: #C8B6A6;
+}
+
+small {
+    font-size: 15px;
 }
