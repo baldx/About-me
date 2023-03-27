@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    font-weight: 700;
+    background-color: #F1DEC9;
+}
+
+.container {
+    border: 10px solid black;
+    border-radius: 20px;
+    height: 500px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A4907C;
+}
+
+.main-text {
+    border: 5px solid black;
+    border-radius: 10px;
+    height: 400px;
+    width: 600px;
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 20px;
+    background-color: #C8B6A6;
+}
