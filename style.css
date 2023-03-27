@@ -2,11 +2,16 @@ body {
     font-family: sans-serif;
     height: 80vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     font-size: 32px;
     font-weight: 700;
     background-color: #F1DEC9;
+}
+
+header {
+    margin: 32px;
 }
 
 .container {
@@ -18,6 +23,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #A4907C;
+    box-shadow: 60px -16px 5px 1px #6f6254;
 }
 
 .main-text {
